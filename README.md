@@ -1,6 +1,5 @@
 # Menu De Restaurante
 ## Contexto
-Contexto del código
 
 La problemática que estamos creando es la del no tener un sistema productivo de toma de ordenes dentro de un negocio de comida con esta misma problemática la finalidad de este código es simple, ayudar a un negocio pequeño de comida el poder automatizar el pedido de alimentos. Me parece un código interesante porque a simple vista al correrlo en la terminal el código representa un texto pequeño a comparación de todo lo escrito en lenguaje c++.
 
