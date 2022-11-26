@@ -5,7 +5,7 @@ La problemática que estamos creando es la del no tener un sistema productivo de
 
 Dicho menú está contemplado para que se puedan agregar a como el menú deseado nos pida, es decir, se puede agregar la cantidad de alimentos, bebidas y extras como se desee. El código está dividido en 6 archivos, el principal llamado como “mainn.cpp” y los demás que cabe aclarar cada uno es importante para el funcionamiento del código main, deben estar guardados en la misma sección del cd. 
 Dicho esto, las instrucciones para correr el programa serían las siguientes:
-1.	Tener un editor de texto para facilitar la lectura del código (Dev C++)
+1.  Tener un editor de texto para facilitar la lectura del código (Dev C++)
 2.	Descargar los 6 archivos que se encuentran disponibles para descarga y guardarlos en una misma sección de CD
 
 •	“mainn.cpp”
