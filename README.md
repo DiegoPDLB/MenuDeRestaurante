@@ -10,15 +10,15 @@ Dicho esto, las instrucciones para correr el programa serían las siguientes:
 
 •	“mainn.cpp”
 
-•	“menuu.h”
+•	“pruductoo.h”
 
 •	“venta.h”
 
-•	“alimentoss.h”
+•	“alimentoo.h”
 
-•	“bebidass.h”
+•	“bebidaa.h”
 
-•	“extrass.h”
+•	“extraa.h”
 
 3.	Tener instalado MinGW
 4.	Abrir la terminal y escribir los siguiente:
