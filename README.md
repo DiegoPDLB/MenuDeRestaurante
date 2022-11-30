@@ -25,6 +25,6 @@ Dicho esto, las instrucciones para correr el programa serían las siguientes:
 
 •	cd (nombre en donde se guardó) +enter (ej. >cd Downloads)
 
-•	g++ mainn.cpp –o Menu
+•	g++ mainn.cpp –o Test
 
-•	menu
+•	Test
